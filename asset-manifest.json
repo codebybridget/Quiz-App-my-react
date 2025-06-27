@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codebybridget/Quiz-App-my-react.git/static/css/main.185a8320.css",
-    "main.js": "/codebybridget/Quiz-App-my-react.git/static/js/main.9b707d5e.js",
-    "static/js/453.ffc69977.chunk.js": "/codebybridget/Quiz-App-my-react.git/static/js/453.ffc69977.chunk.js",
-    "index.html": "/codebybridget/Quiz-App-my-react.git/index.html",
-    "main.185a8320.css.map": "/codebybridget/Quiz-App-my-react.git/static/css/main.185a8320.css.map",
-    "main.9b707d5e.js.map": "/codebybridget/Quiz-App-my-react.git/static/js/main.9b707d5e.js.map",
-    "453.ffc69977.chunk.js.map": "/codebybridget/Quiz-App-my-react.git/static/js/453.ffc69977.chunk.js.map"
+    "main.css": "/codebybridget/Quiz-App-my-react/static/css/main.185a8320.css",
+    "main.js": "/codebybridget/Quiz-App-my-react/static/js/main.b7dc9dee.js",
+    "static/js/453.ffc69977.chunk.js": "/codebybridget/Quiz-App-my-react/static/js/453.ffc69977.chunk.js",
+    "index.html": "/codebybridget/Quiz-App-my-react/index.html",
+    "main.185a8320.css.map": "/codebybridget/Quiz-App-my-react/static/css/main.185a8320.css.map",
+    "main.b7dc9dee.js.map": "/codebybridget/Quiz-App-my-react/static/js/main.b7dc9dee.js.map",
+    "453.ffc69977.chunk.js.map": "/codebybridget/Quiz-App-my-react/static/js/453.ffc69977.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.185a8320.css",
-    "static/js/main.9b707d5e.js"
+    "static/js/main.b7dc9dee.js"
   ]
 }
